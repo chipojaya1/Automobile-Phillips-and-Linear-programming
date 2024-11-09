@@ -1,2 +1,2 @@
 # programming-special-project
-using covid data and python
+using python and LPM models
